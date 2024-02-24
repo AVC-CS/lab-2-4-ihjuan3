@@ -3,7 +3,7 @@ def main():
     original_str = 'Python Programming'
     ##################################################
     sub1 = original_str[:7] 
-    sub2 = original_str[7:18] + ' '
+    sub2 = original_str[7:18] 
     merged_str = sub2 + sub1
     ##################################################
 
